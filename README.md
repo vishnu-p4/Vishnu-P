@@ -4,7 +4,7 @@
 <h3 align="center">🐍 Full Stack Developer | Python + Django + Frontend Magician 🪄</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Web+Developer;Python+%26+Django+Expert;Frontend+Lover+%F0%9F%92%96;React+%7C+Tailwind+%7C+JS+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Web+Developer;Python+%2F+Django+Expert;Frontend+Lover+%F0%9F%92%96;React+%7C+Tailwind+%7C+JS+Ninja" alt="Typing SVG" />
 </p><br>
 
 ---

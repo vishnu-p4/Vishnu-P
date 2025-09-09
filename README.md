@@ -1,74 +1,111 @@
-# Vishnu-P
-<!-- 🌸 Optional Banner (you can add a cute image or pastel banner here) -->
-<!-- ![Banner](https://your-cute-banner-link.com/banner.png) -->
+<!-- Cute & Dev-Powered GitHub Profile -->
 
-<div align="center">
-  <h1>🌸 Hello, World! I'm <i>Your Name</i> 🐇</h1>
-  <p><strong>Full Stack Developer</strong> 🐍 | Django Enthusiast 🌿 | UI Daydreamer 🎨</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&duration=3000&color=F58DA3&center=true&vCenter=true&lines=Writing+clean+code+with+💖;Bringing+ideas+to+life+in+Django+%26+React;Making+UIs+look+soft+and+sweet+🍬" alt="Typing SVG">
-</div>
+<h1 align="center">Hi there 👋, I'm VISHNU P!</h1>
+<h3 align="center">🐍 Full Stack Developer | Python + Django + Frontend Magician 🪄</h3>
 
----
-
-## 🌼 About Me
-
-- 🧁 I build full-stack web apps using **Python**, **Django**, and **React**
-- 🍃 I love clean code, pastel UI themes, and well-documented APIs
-- 📚 Constantly learning about DevOps, testing, and design patterns
-- 🎯 My goal: make tech feel more human and kind 💕
-- 🎀 Fun fact: I have a pet project for every season ☁️🍂❄️🌸
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Web+Developer;Python+%2F+Django+Expert;Frontend+Lover+%F0%9F%92%96;React+%7C+Tailwind+%7C+JS+Ninja" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 Tech I Work With
+## 🧑‍🎤 Who Am I?
 
-<div align="center">
+I'm **VISHNU P**, a creative and detail-obsessed **Full Stack Web Developer** with a love for building fast, secure, and beautiful web apps.
 
-### 🐍 Backend
-![Python](https://img.shields.io/badge/-Python-ffd5ec?style=for-the-badge&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-c5aadf?style=for-the-badge&logo=django&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST-ffe3e3?style=for-the-badge&logo=fastapi&logoColor=black)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-fcc2d7?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-d0bfff?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-eebefa?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-f3d9fa?style=for-the-badge&logo=react&logoColor=black)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-ffc9de?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VSCode-eccaff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-d0f4de?style=for-the-badge&logo=docker&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b5ead7?style=for-the-badge&logo=postgresql&logoColor=black)
-
-</div>
+- 👨‍💻 I specialize in **Python/Django** on the backend and **React + Tailwind CSS** on the frontend.
+- 🌍 I enjoy solving real-world problems through code and clean UI design.
+- 🔥 Passionate about **open source**, community learning, and writing code that scales.
+- 🚀 Currently seeking opportunities to collaborate on impactful web projects.
 
 ---
 
-## ✨ GitHub Stats
+## 🧠 Learning Roadmap
 
-<div align="center">
+Here’s what I’m learning next or improving:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&icon_color=ffb6b9&title_color=ffb6b9&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Let's Be Friends
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc9de?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-d0bfff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-ffd5ec?style=for-the-badge&logo=gmail&logoColor=black)](mailto:youremail@example.com)
-
-</div>
+- ✅ Django Rest Framework (Advanced)
+- ✅ React Hooks & Performance Optimization
+- 🔄 TypeScript for scalable frontend development
+- 🔄 Docker + CI/CD with GitHub Actions
+- 🔄 GraphQL with Django & Apollo
+- 🔄 OAuth2 / Social Auth integrations
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
-  <p><i>"Code with kindness, deploy with love." 💖</i></p>
-</div>
+## 🏅 Certifications & Achievements
+
+- 📜 Python for Everybody – Coursera
+- 📜 Responsive Web Design – freeCodeCamp
+- 🏆 Python full stack developer – App Innovation Technologies
+- ⭐ Top Contributor on [Some Open Source Project] 
+
+---
+
+## 🧰 Tech Stack
+
+#### 💻 Backend:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+#### 🎨 Frontend:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🛠️ Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌈 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-p4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vh9486@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vishnuvishnu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  
+</p>
+
+---
+
+## 💡 Fun Facts
+
+- 🤓 I love writing clean code and making UIs that "spark joy"
+- 🎵 Music is my coding partner (mostly lo-fi or synthwave)
+- 🐍 My favorite Python package is `requests` (or maybe `pydantic`)
+- ☕ 2 cups of coffee = 1 productive day
+- 💬 I believe the best developers never stop learning
+
+---
+
+> 💖 *“Code with love. Build with passion. Ship with pride.”*
+
+---
+
+_Thanks for visiting my GitHub profile! If you liked what you see, don't forget to ⭐ some projects and connect with me!_
